@@ -52,7 +52,9 @@ Here’s a breakdown of the tasks you need to implement in the project:
 
 ## Getting Started
 
-1. Clone the repository:  
-   `https://github.com/Muhammad-Arsalan-Khan/todo-MongoDb.git`
-2. Install dependencies:  
+1. Clone the repository:
+```bash   
+   https://github.com/Muhammad-Arsalan-Khan/todo-MongoDb.git
+```
+3. Install dependencies:  
    `npm install`
